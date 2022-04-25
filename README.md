@@ -1,8 +1,8 @@
 # BMI-calculator-of-two-competitors
 Coding challenge: A JavaScript program that calculates BMI of two competitors with given data.
 
-<h1>Calculate BMIs of 2 competitors and use objects to implement the
-calculations. Remember: BMI = mass / height ** 2</h1>
+<h3>Calculate BMIs of 2 competitors and use objects to implement the
+calculations. Remember: BMI = mass / height ** 2</h3>
 
 1. For each of them, create an object with properties
 for their full name, mass, and height (Mark Miller
